@@ -1,0 +1,8 @@
+npm install prop-types
+npm i react-router-dom
+npm install lucide-react
+npm install antd --save
+npm i react-helmet
+npm i axios
+npm i react-hot-toast
+npm install firebase
